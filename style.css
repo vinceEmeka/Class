@@ -1,3 +1,7 @@
-p span{
- color: aqua;
+p span {
+  color: aqua;
+}
+
+p span {
+  color: rgb(65, 28, 105);
 }
